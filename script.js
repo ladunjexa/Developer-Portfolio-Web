@@ -36,6 +36,6 @@ const mainFn = () => {
 
 mainFn();
 
-window.addEventListener("resize", () => {
+/* window.addEventListener("resize", () => {
   window.location.reload();
-});
+}); */
